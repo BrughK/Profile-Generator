@@ -23,7 +23,7 @@
   This project is licensed under the MIT license.
   
   ## Walkthrough
-  The link attatched demonstrates the functionality of the application: 
+  The link attatched demonstrates the functionality of the application: https://drive.google.com/file/d/1GYkXgM5DfvzWmRpwUjpOTwP0aGvjAw4z/view
   
   ## Questions 
   If you have any questions about the repo, open an issue or contact me directly at kasenb1211@gmail.com. You can find more   of my work at [BrughK](https://github.com/BrughK/).
