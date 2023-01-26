@@ -14,6 +14,7 @@
   To install necessary dependencies, run the following command:
   ```
   npm i inquirer
+  npm i jest
   ```
   ## Usage 
   This application can speed up or simplify the process of making a team management page.
