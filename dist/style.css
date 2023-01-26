@@ -1,0 +1,34 @@
+header {
+    height: 150px;
+    background-color: #ff6961;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+main {
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+body {
+    background-color: rgb(252, 223, 243); 
+}
+
+p {
+    font-size: 15px;
+}
+
+.card { 
+    box-shadow: 5px 5px 10px grey;
+    margin: 15px;
+}
+
+.card-header {
+    background-color: #5b96d1; 
+    color: white;
+    font-weight: bold;
+    font-size: 20px;    
+}
