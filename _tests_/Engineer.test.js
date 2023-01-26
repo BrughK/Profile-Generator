@@ -1,4 +1,4 @@
-const Engineer = require('..lib/engineer');
+const Engineer = require('../lib/index');
 
 describe("This will save the name, id, email, github, and role of the engineer", () => {
     const engineer = new Engineer();

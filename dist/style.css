@@ -1,6 +1,6 @@
 header {
     height: 150px;
-    background-color: #ff6961;
+    background-color: #252969;
     color: white;
     display: flex;
     align-items: center;
@@ -27,7 +27,7 @@ p {
 }
 
 .card-header {
-    background-color: #5b96d1; 
+    background-color: #325e8a; 
     color: white;
     font-weight: bold;
     font-size: 20px;    

@@ -1,4 +1,4 @@
-const Employee = require('..lib/index.js');
+const Employee = require('../lib/index');
 
 describe('function for the employee data', () => {
     const employee = new Employee(); 

@@ -1,4 +1,4 @@
-const Intern = require('..lib/intern');
+const Intern = require('../lib/index');
 
 describe("This will save the name, id, email, school, and role of the intern", () => {
     const intern = new Intern();
